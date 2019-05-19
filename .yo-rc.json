@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "mongoAngularSpringBootApp",
+    "packageName": "com.kkhenissi.fidecooin",
+    "packageFolder": "com/kkhenissi/fidecooin",
+    "serverPort": 8383,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "M2E0ZDYyMDA1ZGJhMTJhYThmNDE0MzdiZjcxOGQ4OWE5ODhlZTcwZmJjMDRmYTlhZmU1ZWRkNGI5ZDU0MDBmOGJjMDY5MzhhYTlhODI5NmE4NjE3MzYwMzIwODVjZWFlZmI1MjEyZDdkZjg2NmQ2MjhmNTFlODNjMTFjMDkwYzE=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "kkhenissi",
+  "repository-name": "mongoAngularSpringBootAppn"
+}
